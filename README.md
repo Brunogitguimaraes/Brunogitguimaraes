@@ -12,7 +12,7 @@ Eu me chamo Bruno, sou programador Front end e atualmente tenho desenvolvido pro
 <br>
 <h3> Conecte-se comigo </h3> 
 <br>
-<a href=" https://www.instagram.com/bruno.silva263"/>
+<a href="(https://www.instagram.com/brunosilvaguimaraes/)"/>
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Logo-Instagran"/> 
 <a href=" https://www.linkedin.com/in/bruno-da-silva-santana/"/>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
