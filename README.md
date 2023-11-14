@@ -19,6 +19,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 <a href="https://wa.me/5561992938167"/>
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     
 [![Bruno Stats](https://github-readme-stats.vercel.app/api?username=Brunogitguimaraes)](https://github.com/anuraghazra/github-readme-stats)
 
