@@ -8,6 +8,9 @@
     <img src="https://img.icons8.com/?size=48&id=21278&format=png" alt="css-logo" />
 <a href=" https://google.com">
     <img src="https://img.icons8.com/?size=48&id=PXTY4q2Sq2lG&format=png" />
+<h2>Estudando no momento</h2>
+<a href=" https://google.com">
+    <img src="https://img.icons8.com/?size=48&id=PXTY4q2Sq2lG&format=png" />
 </div>
 <br>
 <h3> Conecte-se comigo </h3> 
