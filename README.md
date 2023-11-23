@@ -8,6 +8,8 @@
     <img src="https://img.icons8.com/?size=48&id=21278&format=png" alt="css-logo" />
 <a href=" https://google.com">
     <img src="https://img.icons8.com/?size=48&id=PXTY4q2Sq2lG&format=png" />
+<a href=" https://google.com">
+    <img src="https://icons8.com/icon/9OGIyU8hrxW5/visual-studio-code-2019" />
 <h2>Estudando no momento</h2>
 <a href=" https://google.com">
     <img src="https://img.icons8.com/?size=48&id=PXTY4q2Sq2lG&format=png" />
