@@ -9,7 +9,9 @@
 <a href=" https://google.com">
     <img src="https://img.icons8.com/?size=48&id=PXTY4q2Sq2lG&format=png" />
 <a href=" https://google.com">
-    <img src="https://icons8.com/icon/9OGIyU8hrxW5/visual-studio-code-2019" />
+    <img width=37px size=48 align=0 src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="logo-git" />
+    <a href=" https://google.com">
+    <img width=53px size=48 align=0 src="https://logowik.com/content/uploads/images/visual-studio-code7642.jpg" alt="logo-git" />
 <h2>Estudando no momento</h2>
 <a href=" https://google.com">
     <img src="https://img.icons8.com/?size=48&id=PXTY4q2Sq2lG&format=png" />
