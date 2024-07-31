@@ -14,7 +14,7 @@
     <img width=53px size=48 align=0 src="https://logowik.com/content/uploads/images/visual-studio-code7642.jpg" alt="logo-git" />
 <h2>Estudando no momento</h2>
 <a href=" https://google.com">
-    <img src="https://img.icons8.com/?size=48&id=PXTY4q2Sq2lG&format=png" />
+    <img src"https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 </div>
 <br>
 <h3> Conecte-se comigo </h3> 
