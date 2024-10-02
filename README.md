@@ -12,9 +12,13 @@
     <img width=37px size=48 align=0 src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="logo-git" />
     <a href=" https://google.com">
     <img width=53px size=48 align=0 src="https://logowik.com/content/uploads/images/visual-studio-code7642.jpg" alt="logo-git" />
-<h2>Estudando no momento</h2>
-<a href=" https://google.com">
-   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="html-logo"
+    <a href=" https://google.com">
+    <img width=38px size=48 align=0 src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="node-logo"
+        <br>
+    <h2>Estudando no momento</h2>
+    <a href=" https://google.com">
+    <img width=85px size=48 align=0 src="https://miro.medium.com/v2/resize:fit:1400/1*WA_9JsyqFkge2HwYKcdJQw.png" alt="react.js-logo"
+
 </div>
 <br>
 <h3> Conecte-se comigo </h3> 
