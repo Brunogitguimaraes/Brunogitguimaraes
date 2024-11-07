@@ -1,5 +1,5 @@
 ### Olá, Eu me chamo Bruno  👋
-<h1> Sou programador Front end e atualmente tenho desenvolvido projetos com as seguintes tecnologias:</h1>
+<h1> Sou programador Back-End e atualmente tenho desenvolvido projetos com as seguintes tecnologias:</h1>
 <br>
 <div>
 <a href=" https://google.com">
