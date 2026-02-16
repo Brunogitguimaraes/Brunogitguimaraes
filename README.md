@@ -13,7 +13,7 @@
     <a href=" https://google.com">
     <img width=53px size=48 align=0 src="https://logowik.com/content/uploads/images/visual-studio-code7642.jpg" alt="logo-git" />
     <a href=" https://google.com">
-    <img width=38px size=48 align=0 src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="node-logo"
+    <img width=38px size=48 align=0 src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" alt="node-logo"
         <br>
     <h2>Estudando no momento</h2>
     <a href=" https://google.com">
