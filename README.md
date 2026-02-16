@@ -18,6 +18,9 @@
     <h2>Estudando no momento</h2>
     <a href=" https://google.com">
     <img width=85px size=48 align=0 src="https://miro.medium.com/v2/resize:fit:1400/1*WA_9JsyqFkge2HwYKcdJQw.png" alt="react.js-logo"
+    <a href=" https://google.com">
+    <img width=85px size=48 align=0 src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" alt="react.js-logo"
+
 
 </div>
 <br>
